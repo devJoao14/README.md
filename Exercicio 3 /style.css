@@ -1,12 +1,11 @@
-
 body {
     margin: 0;
-    font-family: Arial;
+    font-family: Verdana;
 }
 
 header {
-    background: orange;
-    padding: 10px;
+    background: #4caf50;
+    padding: 15px;
 }
 
 header h1 {
@@ -18,9 +17,9 @@ main {
 }
 
 nav {
-    background: #e5b900;
+    background: #d7e8d0;
     width: 220px;
-    padding: 10px;
+    padding: 15px;
 }
 
 nav h2 {
@@ -29,14 +28,14 @@ nav h2 {
 
 nav a {
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
 
 nav img {
     width: 200px;
-    height: 40px;
+    height: 45px;
 }
 
 section {
-    padding: 10px;
+    padding: 15px;
 }
